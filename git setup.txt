@@ -11,5 +11,5 @@ git setup
 8.git branch -m(to change)
 9.git push origin main 
     any error use
-  git osuh origin main --rebase
-10,gti push origin main
+  git push origin main --rebase
+10.git push origin main --force (to push files in barnch main forcefully)

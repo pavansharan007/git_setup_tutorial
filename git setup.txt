@@ -1,0 +1,15 @@
+git setup
+1.create file
+2.navigate to the file in terminal where you want to push the files in git
+3.git init (to initaluze git,make sure that git is installed)
+4.git remote origin <your github link>
+5.git add .(to add all files in it)
+        or
+  git add <filename>
+6.git commit -m "add the message ehich you have committed"
+7.git branch(check where are you)
+8.git branch -m(to change)
+9.git push origin main 
+    any error use
+  git osuh origin main --rebase
+10,gti push origin main
